@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": "34b3",
+            "name": "Xanh  123",
+            "image": "https://ananas.vn/wp-content/uploads/Pro_AHP001_10-1-500x500.jpg",
+            "cat_id": "1",
+            "price": "200"
+        },
+        {
+            "id": "5852",
+            "name": "Giày",
+            "image": "https://ananas.vn/wp-content/uploads/Pro_AV00205_2-500x500.jpeg",
+            "cat_id": "1",
+            "price": "300"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "user": "admin",
+            "pass": "123456"
+        }
+    ]
+}

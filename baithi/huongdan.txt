@@ -1,0 +1,7 @@
+1. Cài json-server 
+- cài môi trường node js
+- cài json-server: npm install json-server
+- tạo file db.json trong server
+
+2. Khởi động json-server
+    - Lệnh khởi động: npx json-server db.json
